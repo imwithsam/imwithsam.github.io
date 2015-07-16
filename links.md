@@ -12,5 +12,6 @@ permalink: /links/
 * [Marla Brizel](https://marlabrizel.github.io/)
 * [Mike Dao](http://www.ploos.io/)
 * [Mike Dorrance](https://mdorrance.github.io/)
+* [Mike Reeves](https://michaelreeves.io/)
 
 ## [Turing School of Software & Design](http://blog.turing.io/)
