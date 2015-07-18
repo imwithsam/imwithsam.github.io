@@ -28,7 +28,9 @@ environments. Therefore, I was rarely exposed to the open source community and
 modern
 methodologies. I was scarcely aware that a passionate programmer community like the Ruby on Rails one even existed. I
 was more often than not surrounded by more traditional thinking business people and
-programmers using proprietary technology stacks and old school methodologies. I did not
+programmers using proprietary technology stacks and old school methodologies.
+
+I did not
 want to go back into that type of environment. In fact, I was offered a high paying software engineering job last year despite the fact that I had been out of the game for a few years. I turned it down. I would have been working for a traditional minded company consulting for traditional corporations using a proprietary Microsoft stack again. It didn't matter how much they paid. If I was going to go back into software engineering, I was going to do it right this time.
 
 ## Programming the Right Way
@@ -36,7 +38,7 @@ That brings me back to Turing School. After much research, I determined that
 despite the significant cost in both time and money, Turing School  was my best
 bet for being the best programmer I could be and getting back into the programming industry *the right way*.
 
-What is *the right way*? In my mind, the right way involves the following.
+What is *the right way*? In my mind, the right way involves the following:
 
 - working with open source languages, frameworks, and tools
 - being a part of the open source community
