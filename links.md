@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-## Turing Student/Instructor Blogs
+## Turing Student Blogs
 
 * [Justin Holzmann](http://www.justinholzmann.com/)
 * [Lev Kravinsky](http://lev.io/)
