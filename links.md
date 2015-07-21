@@ -12,6 +12,7 @@ permalink: /links/
 * [Marla Brizel](https://marlabrizel.github.io/)
 * [Mike Dorrance](https://mdorrance.github.io/)
 * [Mike Reeves](http://michaelreeves.io/)
+* [Will Faurot](http://willfaurot.com/)
 
 ## Turing Instructor Blogs
 * [Mike Dao](http://www.ploos.io/)
