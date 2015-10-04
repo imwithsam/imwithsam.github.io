@@ -70,9 +70,10 @@ function evenNumbers(number) {
 }
 ```
 
-Note that the `evenNumbers()` function does not need to be defined before it is
-called. The `filter()` function will pass each element in the `numbers` array to
-the `evenNumbers()` function. The `%` operator means divide by and return the
+Note that the `evenNumbers()` function [does not need to be defined before it is
+called](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/).
+The `filter()` function will pass each element in the `numbers` array to the
+`evenNumbers()` function. The `%` operator means divide by and return the
 remainder. In this case, we are dividing by 2 and checking for a remainder of 0
 to determine if the number is even. JavaScript requires you to use the `return`
 statement if you wish to return a value from a function. In this case, we are
