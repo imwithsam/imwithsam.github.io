@@ -100,4 +100,4 @@ first. Then, `console.log()` the values in each function to check yourself.
 Don't worry too much about the [Immediately Invoked Function
 Expression](http://benalman.com/news/2010/11/immediately-invoked-function-expression/).
 All that's doing is surrounding each function with parentheses so they'll be
-executed without having to call them explicitly.
+executed without having to explicitly call them.
