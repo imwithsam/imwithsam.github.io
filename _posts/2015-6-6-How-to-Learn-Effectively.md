@@ -11,7 +11,7 @@ you're Italian). Pomodoros are the result of research that has shown people tend
 to learn and retain information better when they break up their learning,
 traditionally into 25 minute segments with 5 minute breaks in between. That is
 about the extent to which the [Pomodoro
-Technique](http://pomodorotechnique.com/) is used at Turing. There was little
+Technique](http://pomodorotechnique.com/) is used at Turing. There is little
 mandate on how to effectively utilize these breaks.
 
 One of my classmates, [Justin Holzmann](http://www.justinholzmann.com/), and I
@@ -22,11 +22,11 @@ in preparation for starting at Turing.) I later modified these to plyometric
 pushups and squats, and we added the occasional pullups after one of our
 instructors told us about a climbing training board mounted in one of the
 classrooms. A few other students would join in every now and then, but for the
-most part people would laugh or look at us like we were crazy. As silly as we
-may look, I am happy we started doing these simple exercises during our Pomodoro
-breaks.
+most part people would just laugh or look at us like we were crazy. As silly as
+we may look, I am happy we started doing these simple exercises during our
+Pomodoro breaks.
 
-*UPDATE: Unfortunately, Turing School started frowning upon exercising during
+*UPDATE: Unfortunately, Turing School began frowning upon exercising during
 Pomodoro breaks.*
 
 Research has shown that [sitting for long periods of time is bad for your
