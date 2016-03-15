@@ -5,8 +5,8 @@ title: How to Learn Effectively
 
 When I started my 7 month journey at the [Turing School of Software &
 Design](http://turing.io/) I was worried that my health would take a significant
-nosedive during the intensive program. Luckily, many of the instructors would
-break the lectures up into 25 minute segments known as Pomodoros (or Pomodori if
+nosedive during the intensive program. Luckily, some of the instructors break
+the lectures up into 25 minute segments known as Pomodoros (or Pomodori if
 you're Italian). Pomodoros are the result of research that has shown people tend
 to learn and retain information better when they break up their learning,
 traditionally into 25 minute segments with 5 minute breaks in between. That is
@@ -20,11 +20,11 @@ think it may have started after I brought up that I had begun doing [7 Minute
 Workouts](http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/)
 in preparation for starting at Turing.) I later modified these to plyometric
 pushups and squats, and we added the occasional pullups after one of our
-instructors, [Mike Dao](http://ploos.io/), told us about a climbing training
-board mounted in one of the classrooms. A few other students would join in every
-now and then, but for the most part people would laugh or look at us like we
-were crazy. As silly as we may look, I am happy we started doing these simple
-exercises during our Pomodoro breaks.
+instructors told us about a climbing training board mounted in one of the
+classrooms. A few other students would join in every now and then, but for the
+most part people would laugh or look at us like we were crazy. As silly as we
+may look, I am happy we started doing these simple exercises during our Pomodoro
+breaks.
 
 *UPDATE: Unfortunately, Turing School started frowning upon exercising during
 Pomodoro breaks.*
