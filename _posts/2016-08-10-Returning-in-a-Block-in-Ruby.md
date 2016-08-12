@@ -36,10 +36,9 @@ through the block. Alternatively, you can use `break` to exit a block. Only use
 
 The other issue was using `reduce` to build a simple hash. It didn't really make
 sense to me to use `reduce` since you don't really need to cumulatively "add" to
-the hash to build it. You just start with an empty hash and setting key-value
-pairs.
+the hash to build it. You just start with an empty hash and set key-value pairs.
 
-### Conclusion
+### Solution
 
 There are different ways I could have fixed the code, but I chose to go with:
 
@@ -57,3 +56,14 @@ end
 
 (The `tap` method was just a way for me to return the new hash without having to
 explicitly assign and return it.)
+
+If I *really* wanted to use `reduce` to build a hash, I suppose I would have
+done:
+
+```ruby
+def reminder_times
+  User.reduce({}) do |h, user|
+    h.merge({ user.id => user.preferences['reminder_time'] }) if user.wants_reminder?
+  end
+end
+```
